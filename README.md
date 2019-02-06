@@ -56,8 +56,8 @@ body {
 So that Chinese will be shown with the default "Microsoft Yahei" on Windows.
 
 ## Contributors
-[Zack](https://atzack.com)
-[中文](https://zacklive.com/dawn-css/)
+* [Zack](https://atzack.com)
+* [中文](https://zacklive.com/dawn-css/)
 
 ## License
 MIT

@@ -8,7 +8,7 @@ So what's the difference?
 
 I'm aware of the `details` bug in Google Chrome: [issue](https://github.com/twbs/bootstrap/issues/22872).
 
-But still feel like we should choose Chris Coyier's best practice and let Google fix the bug. Furthermore, how often do you use `details`?
+But still feel like we should use Chris Coyier's best practice and let Google fix the bug. Furthermore, how often do you use `details`?
 
 More about the bug: [issue](https://bugs.chromium.org/p/chromium/issues/detail?id=589475)
 

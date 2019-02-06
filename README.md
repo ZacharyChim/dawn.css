@@ -1,6 +1,6 @@
 # Dawn.css
 
-An opinionated fork of Reboot.css by Bootstrap, which was built on Normalize.css.
+An opinionated CSS Reset, based on Reboot.css by Bootstrap, which was built on Normalize.css.
 
 So what's the difference?
 

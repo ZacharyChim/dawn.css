@@ -2,6 +2,8 @@
 
 An opinionated CSS Reset, based on Reboot.css by Bootstrap, which was built on Normalize.css.
 
+(Avoid **margin-top**, always use **margin-bottom**.)
+
 So what's the difference?
 
 ## box-sizing best practice
